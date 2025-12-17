@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	DEFAULT_PORT int    = 8000
+	DEFAULT_PORT int    = 3000
 	DEFAULT_DIR  string = "."
 )
 

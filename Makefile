@@ -12,4 +12,4 @@ install: build
 	mkdir -p ${INSTALL_PREFIX} &&\
 	mv -v ./bin/${PROJECT} ${INSTALL_PREFIX}
 
-.PHONY: lint test run
+.PHONY: run install
