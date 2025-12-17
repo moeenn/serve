@@ -14,7 +14,7 @@ Usage of serve:
 #### Installation
 ```bash
 # install directly from git.
-$ go install github.com/moeenn/serve@latest
+$ go install github.com/moeenn/serve@v1.0.0
 
 # manually build and install.
 $ make install
